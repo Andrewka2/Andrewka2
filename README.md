@@ -97,8 +97,6 @@ Phone: +380667946288
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
