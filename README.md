@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://github.com/Andrewka2/Andrewka2/blob/main/Green%20Photo%20Technology%20Facebook%20Cover.png" align="center" style="width: 100%" />
+</div> 
   
 
 ### <div align="center">I'm Andrii Katsalap 👋 a passionate web developer with expertise in creating dynamic and user-friendly applications 🧐 </div>  
