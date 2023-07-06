@@ -4,7 +4,7 @@
 ### <div align="center">I'm Andrii Katsalap 👋 a passionate web developer with expertise in creating dynamic and user-friendly applications 🧐 </div>  
   
 
-- 🌱 I’m currently learningtensorflow library  
+- 🌱 I’m currently learning tensorflow library  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
